@@ -1,6 +1,8 @@
 # Interfaces-de-react
 Codigo y capturas de la app hecha en react native
 
+PUNTO IMPORTANTE: se debera de tener la carpeta node_modules dentro de la carpeta del proyecto para que todo funcione correctamente.
+
 1- para ejecutar la app en expo go se utiliza el comando:
 npx expo start --tunnel
 
