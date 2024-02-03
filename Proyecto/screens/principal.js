@@ -22,6 +22,24 @@ const Principal = () => {
         Sumérgete en la emoción de las carreras con el increíble set LEGO Speed Champions. Este set presenta un coche de carreras excepcionalmente detallado, diseñado para brindar una experiencia de construcción y juego emocionante.
         </Text>
 
+        <Image 
+        style={styles.producto_img}
+        source={{uri: "https://m.media-amazon.com/images/I/81yzNCpfLQL.jpg"}} 
+        />
+
+        <Text style={styles.paragraph}>
+        En el emocionante mundo de los vehículos de control remoto, el Explorador RC Pro-X destaca como una obra maestra de ingeniería y rendimiento. 
+        </Text>
+
+        <Image 
+        style={styles.producto_img}
+        source={{uri: "https://cdn.chaoscards.co.uk/uploads/prod_img/2_208170_e.png?v=-62169983925"}} 
+        />
+
+        <Text style={styles.paragraph}>
+        Sumérgete en el mundo encantador y acogedor del Peluche de Abeja "Zummielicioso", una creación tierna y suave que te robará el corazón. Este adorable peluche no solo es un compañero perfecto para abrazar, sino que también es una obra de arte detallada que refleja la belleza y la dulzura de las abejas. 
+        </Text>
+
         
       </ScrollView>
     </View>
